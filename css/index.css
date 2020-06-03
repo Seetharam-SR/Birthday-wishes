@@ -1,0 +1,35 @@
+body{
+	background-color:#000000;
+	border-style:solid;
+	border-color:red;
+	border-width: 5px;
+}
+.first{
+	text-align:center;
+	color:#fc8210;
+	font-size:80px;
+	font-weight: 900;
+}
+
+.second{
+	text-align:center;
+	color:#ff427f;
+	font-size:50px;
+	font-weight: 900;
+}
+.third{
+	/*color:#007892;*/
+	color:white;
+	font-size:60px;
+	font-weight: 900;
+	width:70%;
+}
+.wish{
+	text-align:center;
+	color:red;
+	font-size:50px;
+	font-weight: 900;
+}
+
+
+
